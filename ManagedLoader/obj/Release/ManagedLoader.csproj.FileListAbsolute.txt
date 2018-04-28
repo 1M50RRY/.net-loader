@@ -1,0 +1,5 @@
+C:\Users\gorno\Documents\Visual Studio 2015\Projects\ManagedLoader\ManagedLoader\bin\Release\ManagedLoader.exe
+C:\Users\gorno\Documents\Visual Studio 2015\Projects\ManagedLoader\ManagedLoader\bin\Release\ManagedLoader.pdb
+C:\Users\gorno\Documents\Visual Studio 2015\Projects\ManagedLoader\ManagedLoader\obj\Release\ManagedLoader.csprojResolveAssemblyReference.cache
+C:\Users\gorno\Documents\Visual Studio 2015\Projects\ManagedLoader\ManagedLoader\obj\Release\ManagedLoader.exe
+C:\Users\gorno\Documents\Visual Studio 2015\Projects\ManagedLoader\ManagedLoader\obj\Release\ManagedLoader.pdb
